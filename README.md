@@ -67,8 +67,6 @@ DB_NAME=ecourts
 DB_USER=postgres
 DB_PASS=your_password
 
-# CAPTCHA solving (optional)
-TWOCAPTCHA_API_KEY=your_2captcha_api_key
 
 # Browser settings
 HEADLESS=false  # Set to true for headless mode
